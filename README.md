@@ -60,8 +60,7 @@ elmo-hikes/
 
 ## Contributors
 - **Moe** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves COMP 1800.
-- Hesam - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves playing Persian instrument Taar.
-- **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
+- **Hesam** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves playing Persian instrument Taar.
 
 ---
 
